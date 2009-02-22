@@ -1,0 +1,62 @@
+body {
+	background: #DDD;
+}
+#textile-formatting-guide {
+	font-family: Helvetica "Trebuchet MS" sans-serif;
+	background: #FFF;
+	font-size: 13px;
+	border-collapse: collapse;
+	color: #333;
+}
+#textile-formatting-guide,
+#textile-formatting-guide th,
+#textile-formatting-guide td {
+	border: 1px solid #CCC;
+}
+#textile-formatting-guide th,
+#textile-formatting-guide td {
+	padding: 8px;
+}
+#textile-formatting-guide th {
+	background: #888;
+	color: #FFF;
+	font-weight: normal;
+	text-align: left;
+}
+#textile-formatting-guide #left {
+	border-right: 1px solid #FFF;
+}
+#textile-formatting-guide strong {
+	font-weight: bold;
+}
+#textile-formatting-guide em {
+	font-style: italic;
+}
+#textile-formatting-guide ul {
+	margin: 0 0 0 20px;
+	padding: 0;
+	list-style: disc;
+}
+#textile-formatting-guide ol {
+	margin: 0 0 0 20px;
+	padding: 0;
+	list-style: decimal;
+}
+#textile-formatting-guide blockquote {
+	margin: 0 0 0 20px;
+	padding: 0;
+}
+#textile-formatting-guide h1 {
+	font-size: 22px;
+	margin: 5px 0;
+}
+#textile-formatting-guide h2 {
+	font-size: 18px;
+	margin: 5px 0;
+}
+#textile-formatting-guide a {
+	color: blue;
+}
+#textile-formatting-guide .src {
+	font-family: Courier;
+}
